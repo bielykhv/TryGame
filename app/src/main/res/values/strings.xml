@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TryGame</string>
+    <string name="lost">Wrong Answer, try again</string>
+    <string name="win">You win, prepare for next level</string>
+    <string name="start">Press Start</string>
+    <string name="attempt2">2 Attempts left</string>
+    <string name="attempt1">1 Attempt left</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
